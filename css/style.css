@@ -1,0 +1,9 @@
+.block-text {
+	text-align: center;
+	font-size: 19px;
+}
+.block-image {
+	display: flex;
+  justify-content: flex-start;
+	flex-wrap: wrap;
+}
